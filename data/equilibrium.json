@@ -98,5 +98,107 @@
       "Stops the reverse reaction"
     ],
     "answer": 2
+    ,
+  }
+]
+{
+  "question": "Which factor changes the value of Kc?",
+    "options": [
+      "Catalyst",
+      "Concentration",
+      "Pressure",
+      "Temperature"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "For an exothermic reaction, increasing temperature shifts equilibrium:",
+    "options": [
+      "Right",
+      "Left",
+      "No effect",
+      "Impossible to predict"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "For an endothermic reaction, increasing temperature:",
+    "options": [
+      "Favors products",
+      "Favors reactants",
+      "No effect",
+      "Stops reaction"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Increasing pressure favors:",
+    "options": [
+      "Side with more gas moles",
+      "Side with fewer gas moles",
+      "No effect",
+      "Liquid phase"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Pressure has no effect when:",
+    "options": [
+      "Liquids exist",
+      "Equal gaseous moles on both sides",
+      "Catalyst is present",
+      "Temperature changes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which does NOT affect equilibrium?",
+    "options": [
+      "Catalyst",
+      "Temperature",
+      "Pressure",
+      "Concentration"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Le Chatelier's Principle states that equilibrium:",
+    "options": [
+      "Resists changes imposed on it",
+      "Stops reacting",
+      "Always favors products",
+      "Always favors reactants"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "For gaseous equilibrium, decreasing volume:",
+    "options": [
+      "Decreases pressure",
+      "Increases pressure",
+      "No effect",
+      "Stops reaction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Pure solids are omitted from equilibrium expressions because:",
+    "options": [
+      "They have constant concentration",
+      "They are inactive",
+      "They evaporate",
+      "They dissolve completely"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Reaction quotient (Qc) compares:",
+    "options": [
+      "Temperature and pressure",
+      "Current concentrations",
+      "Initial concentrations only",
+      "Volume only"
+    ],
+    "answer": 1
   }
 ]
